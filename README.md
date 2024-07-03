@@ -2,10 +2,6 @@
 
 [Folia](https://github.com/PaperMC/Folia) is a brand new server software made by the team behind [PaperMC](https://papermc.io), a SpigotMC fork. Folia is a new multithreaded version of PaperMC. With Folia, you can handle way more players than you normally could. It requires powerful hardware and the plugins must be updated to support Folia.
 
-## Our Discord Server:
-
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
-
 ## Plugins
 
 List of popular plugins that are working on supporting Folia or already support it.
@@ -166,7 +162,3 @@ Libraries and frameworks for plugin developers.
 ## How can I add Folia support to my plugin?
 
 Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
-
-## Our Discord Server:
-
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
